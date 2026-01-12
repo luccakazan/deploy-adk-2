@@ -161,3 +161,4 @@ gcloud run services update-iam-policy-binding [SERVICE_NAME] \
 ```
 
 Replace `[SERVICE_NAME]`, `[REGION]`, and `[PROJECT_ID]` with your specific service name, region, and project ID. This command grants public access to the service, which is a common requirement for public-facing web services or APIs.
+# deploy test
